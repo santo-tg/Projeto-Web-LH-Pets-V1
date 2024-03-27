@@ -1,0 +1,13 @@
+C:\Users\sousa\OneDrive\Área de Trabalho\Projeto Web-LH Pets V1\bin\Release\net8.0\publish\Projeto Web-LH Pets V1.exe
+C:\Users\sousa\OneDrive\Área de Trabalho\Projeto Web-LH Pets V1\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\sousa\OneDrive\Área de Trabalho\Projeto Web-LH Pets V1\bin\Release\net8.0\publish\appsettings.json
+C:\Users\sousa\OneDrive\Área de Trabalho\Projeto Web-LH Pets V1\bin\Release\net8.0\publish\Projeto Web-LH Pets V1.dll
+C:\Users\sousa\OneDrive\Área de Trabalho\Projeto Web-LH Pets V1\bin\Release\net8.0\publish\Projeto Web-LH Pets V1.deps.json
+C:\Users\sousa\OneDrive\Área de Trabalho\Projeto Web-LH Pets V1\bin\Release\net8.0\publish\Projeto Web-LH Pets V1.runtimeconfig.json
+C:\Users\sousa\OneDrive\Área de Trabalho\Projeto Web-LH Pets V1\bin\Release\net8.0\publish\Projeto Web-LH Pets V1.pdb
+C:\Users\sousa\OneDrive\Área de Trabalho\Projeto Web-LH Pets V1\bin\Release\net8.0\publish\System.Data.SqlClient.dll
+C:\Users\sousa\OneDrive\Área de Trabalho\Projeto Web-LH Pets V1\bin\Release\net8.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\sousa\OneDrive\Área de Trabalho\Projeto Web-LH Pets V1\bin\Release\net8.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\sousa\OneDrive\Área de Trabalho\Projeto Web-LH Pets V1\bin\Release\net8.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\sousa\OneDrive\Área de Trabalho\Projeto Web-LH Pets V1\bin\Release\net8.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sousa\OneDrive\Área de Trabalho\Projeto Web-LH Pets V1\bin\Release\net8.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

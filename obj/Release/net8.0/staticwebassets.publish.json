@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "8nHO5/+Uc4r6Uep2Kx+tRmQA2PlajFB5/LuxRL6Qo10=",
+  "Source": "Projeto Web-LH Pets V1",
+  "BasePath": "_content/Projeto Web-LH Pets V1",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto Web-LH Pets V1\\wwwroot",
+      "Source": "Projeto Web-LH Pets V1",
+      "ContentRoot": "C:\\Users\\sousa\\OneDrive\\Área de Trabalho\\Projeto Web-LH Pets V1\\wwwroot\\",
+      "BasePath": "_content/Projeto Web-LH Pets V1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\sousa\\OneDrive\\Área de Trabalho\\Projeto Web-LH Pets V1\\wwwroot\\index.html",
+      "SourceId": "Projeto Web-LH Pets V1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sousa\\OneDrive\\Área de Trabalho\\Projeto Web-LH Pets V1\\wwwroot\\",
+      "BasePath": "_content/Projeto Web-LH Pets V1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
